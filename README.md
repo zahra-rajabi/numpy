@@ -34,7 +34,7 @@ This is part of a larger personal roadmap toward mastering:
 
 ## 📁 File
 
-- [`numpy_practice.ipynb`](./numpy_practice.ipynb): The full notebook.
+- [`numpy_practice.ipynb`](./numpy_learning.ipynb): The full notebook.
 
 ---
 
